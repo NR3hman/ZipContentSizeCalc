@@ -1,0 +1,1 @@
+C:\AcuityDevelopment\GitHub\ZipContentSizeCalc\ZipContentSizeCalc\ZipContentSizeCalc\bin\Debug\ZipContentSizeCalc.exe.config
